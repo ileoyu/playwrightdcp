@@ -1,0 +1,22 @@
+{
+  "name": "playwrightdcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ileoyu/playwrightdcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ileoyu/playwrightdcp/issues"
+  },
+  "homepage": "https://github.com/ileoyu/playwrightdcp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.7"
+  }
+}
